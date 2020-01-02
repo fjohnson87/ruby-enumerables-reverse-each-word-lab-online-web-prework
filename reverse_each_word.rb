@@ -1,5 +1,5 @@
 def reverse_each_word
- reverse = ["Hello", "there", "and", "how", "are", "you?"].join(' ')
+ reverse_each_word = ["Hello", "there", "and", "how", "are", "you?"].join(' ')
  reverse.each do |reverse|
-  puts "#{oppressed_worker.capitalize}
+  puts "#{reverse_each_word
 end
